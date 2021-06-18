@@ -50,3 +50,7 @@
 html{
     scroll-behavior: smooth;
 }
+#client-section{
+    position: relative;
+    z-index: -1;
+}
